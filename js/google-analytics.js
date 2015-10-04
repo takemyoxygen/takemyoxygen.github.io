@@ -5,7 +5,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
 ga('create', 'UA-46789865-1', 'takemyoxygen.github.io');
 ga('send', 'pageview');
-  
+
 $(document).ready(function(){
     $("a").click(function(){
         var linkClass = $(this).attr("class");
@@ -15,22 +15,22 @@ $(document).ready(function(){
         }
     });
 });
-  
-  
+
+
 function getEventBasedOnLink(linkClass){
     switch (linkClass){
         case "twitter":
             return "Navigate to Twitter";
-            
-        case "cv":
-            return "Navigate to CV";
-            
+
         case "linkedin":
             return "Navigate to LinkedIn";
-			
+
 		case "bitbucket":
 			return "Navigate to Bitbucket";
-            
+
+        case "stackoverflow":
+            return "Navigate to StackOverflow";
+
         default:
             return null;
     }
