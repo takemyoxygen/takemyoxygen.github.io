@@ -1,2 +1,3 @@
 permalink: /posts/:year/:month/:day/:title/
 include: [docs]
+theme: minima
