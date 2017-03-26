@@ -1,3 +1,8 @@
+---
+layout: default
+title: Uladzimir Makarau CV
+---
+
 # Uladzimir Makarau CV
 
 ## General
