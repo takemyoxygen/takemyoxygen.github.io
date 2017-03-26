@@ -38,10 +38,6 @@ img.cat-image{
     opacity: 1;
 }
 
-.social a.bitbucket {
-    background: url('/i/bitbucket.png') center no-repeat;
-}
-
 .social a.linkedin {
     background: url('/i/linked-in.png') center no-repeat;
     width: 42px;
@@ -54,4 +50,8 @@ img.cat-image{
 
 .social a.stackoverflow {
     background: url('/i/stackoverflow.png') center no-repeat;
+}
+
+.social a.github {
+    background: url('/i/github.png') center no-repeat;
 }
