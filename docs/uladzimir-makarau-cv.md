@@ -13,7 +13,7 @@ Email: uladzimir.makarau@gmail.com
 
 Skype: uladzimir_makarau
 
-Related links: http://takemyoxygen.github.io
+Related links: [http://takemyoxygen.github.io](http://takemyoxygen.github.io)
 
 
 ## Experience
