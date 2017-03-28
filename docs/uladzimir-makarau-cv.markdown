@@ -8,7 +8,7 @@ title: Uladzimir Makarau CV
 I'm a software developer with 7+ years of experience. 
 I've been working mostly with .NET stack but also have written some code in Python, JavaScript, Rust and Haskell. Worked on different positions from junior to tech leader in various stages of software lifecycle starting from requirements gathering and high-level design to implementation and production support and maintenance.
 
-In general, I like to solve problems with simple solutions and approaches. Interested in combining functional and object-oriented practices to write robust, simple and clean code.
+In general, I like to solve problems with simple solutions and approaches. Interested in combining functional and object-oriented practices to write robust, simple and clean code. Even though my experience is mostly .NET-based, I'm comfortable with leaving my comfort zone and explore and try new platforms, technologies and approaches.
 
 ## Experience
 
@@ -31,12 +31,12 @@ Various positions from junior to lead engineer on multiple outsourcing projects 
 
 #### Other
 
-Over the course of past years I worked on multiple small pet projects. Lately, they were focused mostly on getting some experience with Node JS, React, Azure and Haskell.
-
 Some of my projects:
 1. [Memo List](https://www.microsoft.com/en-us/store/p/memo-list/9wzdncrdclsb) - Windows Store client for to-do service Remember The Milk. Written in C#/XAML/F#
 2. [Math Quest](https://www.microsoft.com/en-us/store/p/math-quest/9wzdncrdclsc) - Windows Store math game. Written in C#/XAML
 3. [Froto.TypeProvider](https://www.nuget.org/packages/Froto.TypeProvider/) - F# Type Provider for Google Protocol Buffers.
+
+Over the course of past years I also worked on a few small pet projects mostly focused on getting some experience with new or previously not used technologies (lately: Node JS, React, Azure and Haskell)
 
 ## Education
 
