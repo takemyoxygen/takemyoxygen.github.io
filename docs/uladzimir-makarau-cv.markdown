@@ -18,7 +18,7 @@ In general, I like to solve problems with simple solutions and approaches. Inter
 
 For 3 years I was working as a software developer in a trading company developing products for internal use only. 
 
-Technology stack is mostly .NET apps ans services with SQL Server databases undeneath, but I also got some experience in Python. Few more details about projects I worked on:
+Technology stack is mostly .NET apps ans services on Windows with SQL Server databases undeneath, but I also got some experience in Unix and Python. Few more details about projects I worked on:
 
 1. A set of APIs and libraries for trading applications developers. These libraries exposed a unified domain model and set of services and hid the complexity of various underlying data sources with different protocols which could send thousands of updates per second.
 2. A system which unified and normalized the process of valuating different types of financial securities for the purpose of end of day analysis. Was heavily involved in analysis of requirements and business domain space as well as tecnhical design and implementation.
@@ -44,10 +44,12 @@ Belarusian State University of Informatics and Radioelectronics, faculty of comp
 
 English: full working proficiency, got CAE certificate in 2015.
 
-## Personal
+## Contacts
 
 Email: uladzimir.makarau@gmail.com
 
 Skype: uladzimir_makarau
 
-Links to dev related resources: [http://takemyoxygen.github.io](http://takemyoxygen.github.io)
+## Profiles
+
+{% include links.html %}
