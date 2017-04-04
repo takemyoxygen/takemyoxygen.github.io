@@ -23,6 +23,8 @@ Technology stack is mostly .NET apps ans services on Windows with SQL Server dat
 1. A set of APIs and libraries for trading applications developers. These libraries exposed a unified domain model and set of services and hid the complexity of various underlying data sources with different protocols which could send thousands of updates per second.
 2. A system which unified and normalized the process of valuating different types of financial securities for the purpose of end-of-day analysis. Was heavily and actively involved in analysis of requirements and business domain space as well as tecnhical design and implementation.
 
+I was also involved into interviewing candidates, conducted interview sessions related to system design.
+
 #### EPAM Systems
 
 *Minsk, Belarus. Feb 2010 - March 2014.*
